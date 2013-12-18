@@ -32,5 +32,3 @@ if __name__=='__main__':
         conn.send("<html><head><title>System Admin - Database Dump -</title></head><body>MD5 Hash password: 9373393390934b64ebd10852acec7cbc<br /> -- Honey/0.1 Database Dump 29/03/2012 06:37:45 --</body></html>")
         conn.close()
         logs(data, addr)
-
-#COMENTARIO PROVENIENTE DEL FORK
